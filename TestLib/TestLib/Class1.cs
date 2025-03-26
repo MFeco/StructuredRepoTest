@@ -13,6 +13,7 @@
             if (isActive)
             {
                 // do stuff
+                var alfa = string.Concat(primaStringa, stringaTestRename);
             }
         }
     }
