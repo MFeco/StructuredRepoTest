@@ -403,3 +403,5 @@ tests/RENTRI.PerfTest/k6-scripts/test_results.csv
 /tests/RENTRI.PerfTest/RENTRI.PerfTest/registri.json
 /tests/RENTRI.PerfTest/RENTRI.PerfTest/bundles-1.json
 /tests/RENTRI.PerfTest/RENTRI.PerfTest/soggetti.json
+*.props
+TestLib/TestLib/obj/
