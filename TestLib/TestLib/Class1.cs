@@ -14,6 +14,8 @@
             {
                 // do stuff
                 var alfa = string.Concat(primaStringa, stringaTestRename);
+
+                var beta = "stringa beta da figliodi 10004";
             }
         }
     }
